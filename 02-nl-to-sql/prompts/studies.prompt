@@ -1,0 +1,30 @@
+third table:
+{
+  "tablename": "studies",
+  "fields": [
+    {
+      "name": "ID",
+      "type": "int"
+    },
+    {
+      "name": "ID_usr",
+      "type": "int"
+    },
+    {
+      "name": "educational level",
+      "type": "int"
+    },
+    {
+      "name": "Institution",
+      "type": "string"
+    },
+    {
+      "name": "Years",
+      "type": "date"
+    }
+    {
+      "name": "Speciality",
+      "type": "string"
+    }
+  ]
+}

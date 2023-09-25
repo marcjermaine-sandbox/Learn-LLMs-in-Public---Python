@@ -1,0 +1,17 @@
+{
+  "tableName": "salary",
+  "fields": [
+    {
+      "nombre": "ID_usr",
+      "type": "int"
+    },
+    {
+      "name": "year",
+      "type": "date"
+    },
+    {
+      "name": "salary",
+      "type": "float"
+    }
+  ]
+}

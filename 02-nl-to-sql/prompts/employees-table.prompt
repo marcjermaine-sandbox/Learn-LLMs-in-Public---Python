@@ -1,0 +1,14 @@
+first table:
+{
+  "tableName": "employees",
+  "fields": [
+    {
+      "nombre": "ID_usr",
+      "tipo": "int"
+    },
+    {
+      "nombre": "name",
+      "tipo": "string"
+    }
+  ]
+}
